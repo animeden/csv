@@ -1,4 +1,4 @@
-rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 days),price,category,5_star_ratings,4_star_ratings,3_star_ratings,2_star_ratings,1_star_ratings,paid
+rank,title,total ratings,installs,average rating,growth (30 days),growth (60 days),price,category,5 star ratings,4 star ratings,3 star ratings,2 star ratings,1 star ratings,paid
 1,Garena Free Fire - The Cobra,80678661,500.0 M,4.33,2.9,7.9,0.0,GAME ACTION,61935712,4478738,2795172,1814999,9654037,False
 2,PUBG MOBILE: Graffiti Prank,35971961,100.0 M,4.24,2.0,3.1,0.0,GAME ACTION,26670566,2109631,1352610,893674,4945478,False
 3,Mobile Legends: Bang Bang,25836869,100.0 M,4.08,1.6,3.3,0.0,GAME ACTION,17850942,1796761,1066095,725429,4397640,False
@@ -131,7 +131,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 30,Beggar Life - Clicker adventure,545364,5.0 M,4.22,0.1,0.2,0.0,GAME ADVENTURE,370907,60083,36938,18369,59064,False
 31,RealmCraft with Skins Export to Minecraft,530531,50.0 M,4.11,2.3,5.1,0.0,GAME ADVENTURE,360272,45518,26510,18330,79898,False
 32,Animation Throwdown: The Collectible Card Game,528493,10.0 M,4.44,0.3,0.7,0.0,GAME ADVENTURE,369221,92285,27535,11146,28304,False
-"33,""Knives Out-No rules, just fight!"",526011,10.0 M,3.39,0.5,1.0,0.0,GAME ADVENTURE,260354,40125,34962,24636,165933,False"
+33,"Knives Out-No rules, just fight!",526011,10.0 M,3.39,0.5,1.0,0.0,GAME ADVENTURE,260354,40125,34962,24636,165933,False
 34,Jurassic World Alive,521392,10.0 M,4.35,1.1,2.4,0.0,GAME ADVENTURE,368121,67896,28777,14238,42356,False
 35,House Designer : Fix & Flip,520995,50.0 M,4.12,3.2,8.4,0.0,GAME ADVENTURE,337935,61651,34116,20254,67036,False
 36,Seekers Notes: Hidden Mystery,519820,10.0 M,4.27,0.7,1.4,0.0,GAME ADVENTURE,323970,98744,43406,18725,34973,False
@@ -181,7 +181,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 80,BlockStarPlanet,229193,10.0 M,3.97,0.6,1.7,0.0,GAME ADVENTURE,138146,29200,15234,9094,37516,False
 81,Draw a Stickman: EPIC Free,227666,10.0 M,3.95,0.1,0.3,0.0,GAME ADVENTURE,138400,23863,18402,10703,36295,False
 82,Benji Bananas Adventures,220028,10.0 M,4.41,0.0,0.1,0.0,GAME ADVENTURE,157365,29152,14581,4277,14651,False
-"83,""Hotel Transylvania Adventures - Run, Jump, Build!"",215484,10.0 M,4.33,1.6,3.3,0.0,GAME ADVENTURE,158241,19243,10203,5946,21848,False"
+83,"Hotel Transylvania Adventures - Run, Jump, Build!",215484,10.0 M,4.33,1.6,3.3,0.0,GAME ADVENTURE,158241,19243,10203,5946,21848,False
 84,Street Chaser,214252,50.0 M,4.12,2.9,6.0,0.0,GAME ADVENTURE,145750,16991,12760,8788,29960,False
 85,Survival Island: EVO 2,211749,10.0 M,3.82,0.1,0.2,0.0,GAME ADVENTURE,119993,23498,18989,9269,39997,False
 86,Seven - Deadly Revelation - Horror Chat Adventure,209977,1.0 M,4.47,0.8,1.8,0.0,GAME ADVENTURE,147758,34367,15514,4221,8115,False
@@ -353,7 +353,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 52,Yalla Ludo - Ludo&Domino,211859,10.0 M,4.35,10.1,22.4,0.0,GAME BOARD,163153,11334,8950,5898,22522,False
 53,Mahjong Master,206300,10.0 M,4.63,0.2,0.4,0.0,GAME BOARD,158982,31185,8750,2866,4514,False
 54,Chess - Clash of Kings,204295,10.0 M,4.47,6.4,19.1,0.0,GAME BOARD,146764,32385,10297,3590,11256,False
-"55,""Colorscapes - Color by Number, Coloring Games"",198534,10.0 M,4.73,6.5,13.9,0.0,GAME BOARD,175060,9717,4744,2486,6524,False"
+55,"Colorscapes - Color by Number, Coloring Games",198534,10.0 M,4.73,6.5,13.9,0.0,GAME BOARD,175060,9717,4744,2486,6524,False
 56,Ludo Talent- Online Ludo&Chatroom,195082,10.0 M,4.19,2.1,5.0,0.0,GAME BOARD,131997,20385,13564,6494,22640,False
 57,YAHTZEE® With Buddies Dice Game,192768,10.0 M,4.09,1.9,4.6,0.0,GAME BOARD,118188,28403,14142,9796,22237,False
 58,Backgammon Free - Lord of the Board - Table Game,191039,5.0 M,4.23,2.7,6.3,0.0,GAME BOARD,141982,11168,5861,3967,28059,False
@@ -442,7 +442,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 33,Callbreak Multiplayer,281205,50.0 M,4.04,0.8,1.8,0.0,GAME CARD,181358,27280,18064,11478,43023,False
 34,Buraco Canasta Jogatina: Card Games For Free,261850,10.0 M,4.27,0.3,0.6,0.0,GAME CARD,174842,36811,18560,8567,23068,False
 35,Governor of Poker 3 - Free Texas Holdem Card Games,258162,5.0 M,4.29,1.1,2.2,0.0,GAME CARD,185646,26731,10004,5815,29963,False
-"36,""Jawaker Trix, Tarneeb, Baloot, Hand & More"",250885,10.0 M,4.6,7.2,14.3,0.0,GAME CARD,213020,11499,6601,3106,16657,False"
+36,"Jawaker Trix, Tarneeb, Baloot, Hand & More",250885,10.0 M,4.6,7.2,14.3,0.0,GAME CARD,213020,11499,6601,3106,16657,False
 37,Gaple-Domino QiuQiu Poker Capsa Ceme Game Online,243349,5.0 M,4.6,7.1,23.0,0.0,GAME CARD,200960,15474,10562,4523,11827,False
 38,Texas Hold'em & Omaha Poker: Pokerist,243022,10.0 M,4.06,0.5,1.2,0.0,GAME CARD,158710,26096,11836,6062,40315,False
 39,Indian Rummy - Play Rummy Game Online,237290,10.0 M,4.12,0.5,1.0,0.0,GAME CARD,154997,28244,14716,7348,31983,False
@@ -567,7 +567,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 44,NEW SLOTS 2021－free casino games & slot machines,261231,5.0 M,4.66,1.1,2.5,0.0,GAME CASINO,216166,23601,8677,2869,9916,False
 45,Jackpot World™ - Free Vegas Casino Slots,257230,5.0 M,4.53,3.2,9.2,0.0,GAME CASINO,196111,31580,12390,3736,13411,False
 46,神來也麻將－麻將、麻雀,251504,5.0 M,4.34,0.6,2.1,0.0,GAME CASINO,185875,25178,9258,3404,27786,False
-"47,""GAMEE Prizes - Play Free Games, WIN REAL CASH!"",232488,10.0 M,4.31,7.2,15.0,0.0,GAME CASINO,157836,31045,19231,7211,17162,False"
+47,"GAMEE Prizes - Play Free Games, WIN REAL CASH!",232488,10.0 M,4.31,7.2,15.0,0.0,GAME CASINO,157836,31045,19231,7211,17162,False
 48,Tongits Go - The Best Card Game Online,226544,10.0 M,4.59,5.4,13.7,0.0,GAME CASINO,193676,7889,5233,3657,16086,False
 49,ไพ่เท็กซัสโบย่า-Boyaa Texas Poker โป๊กเกอร์มือโปร,210708,5.0 M,4.49,0.1,0.3,0.0,GAME CASINO,160491,22448,10939,3583,13245,False
 50,Gaminator Casino Slots - Play Slot Machines 777,209875,5.0 M,4.49,1.3,2.7,0.0,GAME CASINO,166629,16366,6522,3341,17015,False
@@ -671,7 +671,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 48,Green Farm 3,917760,10.0 M,4.05,0.4,0.8,0.0,GAME CASUAL,567205,114605,76366,38368,121214,False
 49,Rodeo Stampede: Sky Zoo Safari,873956,10.0 M,4.2,0.4,1.1,0.0,GAME CASUAL,565464,120707,68900,31812,87070,False
 50,Stickman Warriors,872342,50.0 M,4.17,0.2,0.4,0.0,GAME CASUAL,586328,90434,60186,27623,107769,False
-"51,""Good Pizza, Great Pizza"",866289,50.0 M,4.37,2.8,6.0,0.0,GAME CASUAL,613728,112173,52293,24120,63971,False"
+51,"Good Pizza, Great Pizza",866289,50.0 M,4.37,2.8,6.0,0.0,GAME CASUAL,613728,112173,52293,24120,63971,False
 52,Bubble Shooter,857288,100.0 M,4.38,1.4,2.7,0.0,GAME CASUAL,604830,114918,54305,22889,60343,False
 53,Bubbu – My Virtual Pet,817547,50.0 M,4.47,2.0,5.3,0.0,GAME CASUAL,641650,61957,31403,19369,63166,False
 54,Jewels Star,780001,50.0 M,4.36,0.0,0.0,0.0,GAME CASUAL,509966,143137,66340,22393,38164,False
@@ -734,7 +734,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 9,Masha and the Bear. Educational Games,201369,100.0 M,4.08,2.8,5.8,0.0,GAME EDUCATIONAL,135299,15707,11313,8966,30082,False
 10,Pepi House: Happy Family,197882,10.0 M,4.02,1555.5,4.2,0.0,GAME EDUCATIONAL,126824,18698,12183,9423,30752,False
 11,Pepi Wonder World,192063,10.0 M,4.34,4.1,8.7,0.0,GAME EDUCATIONAL,144208,14142,7921,5555,20234,False
-"12,""Math Games, Learn Add, Subtract, Multiply & Divide"",188835,10.0 M,4.41,4.4,9.2,0.0,GAME EDUCATIONAL,144308,15516,8064,4787,16158,False"
+12,"Math Games, Learn Add, Subtract, Multiply & Divide",188835,10.0 M,4.41,4.4,9.2,0.0,GAME EDUCATIONAL,144308,15516,8064,4787,16158,False
 13,LEGO® DUPLO® Train,185203,10.0 M,4.24,0.0,0.0,0.0,GAME EDUCATIONAL,129717,16472,12731,5767,20513,False
 14,Baby Panda World,184654,50.0 M,4.4,11.9,25.3,0.0,GAME EDUCATIONAL,145021,10174,6530,4728,18198,False
 15,Pepi Super Stores: Fun & Games,181190,10.0 M,4.13,3.4,6.4,0.0,GAME EDUCATIONAL,124157,14444,9288,7722,25576,False
@@ -749,8 +749,8 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 24,My Town : Police Station. Policeman Game for Kids,136091,10.0 M,4.12,2.9,6.6,0.0,GAME EDUCATIONAL,93045,10292,7361,6377,19014,False
 25,Baby Panda’s Ice Cream Shop,135195,10.0 M,4.3,1.9,4.0,0.0,GAME EDUCATIONAL,100721,8668,6348,4759,14697,False
 26,Meow Meow Star Acres,135159,1.0 M,4.5,0.1,0.2,0.0,GAME EDUCATIONAL,103440,13930,7255,2758,7774,False
-"27,""Truck games for kids - build a house, car wash"",133569,100.0 M,4.09,5.8,11.5,0.0,GAME EDUCATIONAL,90218,10730,7013,5814,19792,False"
-"28,""Baby Games for 2,3,4 year old toddlers"",132466,10.0 M,4.63,4.5,11.4,0.0,GAME EDUCATIONAL,101940,20340,5445,1284,3454,False"
+27,"Truck games for kids - build a house, car wash",133569,100.0 M,4.09,5.8,11.5,0.0,GAME EDUCATIONAL,90218,10730,7013,5814,19792,False
+28,"Baby Games for 2,3,4 year old toddlers",132466,10.0 M,4.63,4.5,11.4,0.0,GAME EDUCATIONAL,101940,20340,5445,1284,3454,False
 29,Supermarket: Shopping Games for Kids,128305,10.0 M,4.18,2.2,4.8,0.0,GAME EDUCATIONAL,92392,8105,5231,4236,18339,False
 30,Coloring & Learn,124307,50.0 M,4.14,6.3,13.3,0.0,GAME EDUCATIONAL,83409,12126,7707,5369,15693,False
 31,Little Panda's Chinese Recipes,123643,10.0 M,4.34,2.4,5.2,0.0,GAME EDUCATIONAL,93467,8256,5015,3819,13083,False
@@ -763,7 +763,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 38,Left vs Right: Brain Games for Brain Training,106059,5.0 M,4.52,0.7,1.3,0.0,GAME EDUCATIONAL,75230,19812,5497,1769,3748,False
 39,Multiplication Table Kids Math,103238,10.0 M,4.33,0.0,0.0,0.0,GAME EDUCATIONAL,74370,10963,5881,2037,9985,False
 40,MentalUP - Learning Games & Brain Games,97463,1.0 M,4.67,3.1,6.8,0.0,GAME EDUCATIONAL,85024,4446,1678,949,5365,False
-"41,""Math Exercises for the brain, Math Riddles, Puzzle"",96204,5.0 M,4.54,3.5,6.7,0.0,GAME EDUCATIONAL,72413,13229,4889,1527,4145,False"
+41,"Math Exercises for the brain, Math Riddles, Puzzle",96204,5.0 M,4.54,3.5,6.7,0.0,GAME EDUCATIONAL,72413,13229,4889,1527,4145,False
 42,Bee Network:Phone-based Digital Currency,92826,5.0 M,4.57,50.7,0.0,0.0,GAME EDUCATIONAL,76045,6405,3335,1345,5694,False
 43,Make-Up Me,90592,10.0 M,3.96,0.1,0.2,0.0,GAME EDUCATIONAL,55785,8711,7402,4195,14495,False
 44,Little Panda’s Summer: Ice Cream Bars,90035,10.0 M,4.4,2.5,4.3,0.0,GAME EDUCATIONAL,69615,5547,4057,2558,8255,False
@@ -773,7 +773,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 48,Little Panda: Princess Makeup,81405,10.0 M,4.19,6.5,14.3,0.0,GAME EDUCATIONAL,57877,5764,3843,3146,10773,False
 49,Little Panda's Farm Story,81072,10.0 M,4.39,3.1,6.5,0.0,GAME EDUCATIONAL,62452,5173,3495,2423,7527,False
 50,Little Panda: Princess Dress Up,81037,10.0 M,4.15,1.8,4.2,0.0,GAME EDUCATIONAL,56822,5443,3957,3389,11424,False
-"51,""Сказки и развивающие игры для детей, малышей"",80715,1.0 M,4.77,0.9,2.5,0.0,GAME EDUCATIONAL,70467,6072,1658,719,1797,False"
+51,"Сказки и развивающие игры для детей, малышей",80715,1.0 M,4.77,0.9,2.5,0.0,GAME EDUCATIONAL,70467,6072,1658,719,1797,False
 52,Reaction training,79162,1.0 M,4.74,13.1,38.3,0.0,GAME EDUCATIONAL,67538,7310,1610,605,2098,False
 53,Baby Panda's Carnival - Christmas Amusement Park,78072,10.0 M,4.33,2.4,5.0,0.0,GAME EDUCATIONAL,58938,5015,3207,2387,8522,False
 54,ほしの島のにゃんこ,77905,1.0 M,4.03,0.2,0.3,0.0,GAME EDUCATIONAL,42599,14699,9073,3327,8204,False
@@ -794,7 +794,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 69,Trip to the zoo for kids,62539,5.0 M,4.58,0.0,0.1,0.0,GAME EDUCATIONAL,50570,5095,2667,959,3246,False
 70,Ice Queen's Beauty SPA Salon,62200,5.0 M,4.11,202.9,0.0,0.0,GAME EDUCATIONAL,40010,6526,5667,2778,7216,False
 71,Math Games,62109,10.0 M,4.11,0.6,1.4,0.0,GAME EDUCATIONAL,41722,5593,3605,2247,8939,False
-"72,""Bucha học tiếng Anh - Từ vựng, Giao tiếp, Ngữ pháp"",61992,1.0 M,4.78,1.6,3.4,0.0,GAME EDUCATIONAL,54610,4331,1182,397,1470,False"
+72,"Bucha học tiếng Anh - Từ vựng, Giao tiếp, Ngữ pháp",61992,1.0 M,4.78,1.6,3.4,0.0,GAME EDUCATIONAL,54610,4331,1182,397,1470,False
 73,Cinderella - Story Games and Puzzles,61666,1.0 M,4.21,0.2,0.3,0.0,GAME EDUCATIONAL,43238,5403,3316,2017,7690,False
 74,Baby care,61624,10.0 M,3.88,3.9,8.1,0.0,GAME EDUCATIONAL,37561,5193,4132,3230,11506,False
 75,ABC Kids - Tracing & Phonics,61196,10.0 M,4.31,1.2,2.6,0.0,GAME EDUCATIONAL,44376,5622,3274,1691,6230,False
@@ -808,16 +808,16 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 83,My Baby Panda Chef,55043,10.0 M,4.29,1.2,2.6,0.0,GAME EDUCATIONAL,41292,2977,2368,2008,6395,False
 84,Sweet Baby Girl Cleanup 5 - Messy House Makeover,54895,10.0 M,4.07,4.4,10.9,0.0,GAME EDUCATIONAL,36679,4541,3064,2330,8279,False
 85,Airport Professions: Fascinating games,53661,10.0 M,4.29,0.7,1.6,0.0,GAME EDUCATIONAL,40785,2714,1789,1620,6751,False
-"86,""Colors for Kids, Toddlers, Babies - Learning Game"",52947,10.0 M,4.01,5.6,12.3,0.0,GAME EDUCATIONAL,32205,6155,4399,3142,7043,False"
+86,"Colors for Kids, Toddlers, Babies - Learning Game",52947,10.0 M,4.01,5.6,12.3,0.0,GAME EDUCATIONAL,32205,6155,4399,3142,7043,False
 87,Masha and the Bear: Good Night!,52165,10.0 M,4.12,2.4,5.1,0.0,GAME EDUCATIONAL,36434,3309,2352,2173,7895,False
 88,Animals Farm For Kids,51577,5.0 M,4.62,0.1,0.4,0.0,GAME EDUCATIONAL,41757,5069,1859,579,2309,False
 89,My Little Princess Castle - Playhouse & Girls Game,51147,10.0 M,4.23,3.9,9.0,0.0,GAME EDUCATIONAL,36374,4253,2676,1576,6265,False
 90,Английский для Начинающих: LinDuo HD,50859,1.0 M,4.82,4.5,8.3,0.0,GAME EDUCATIONAL,44723,4611,707,288,527,False
 91,Central Hospital Stories,50523,10.0 M,3.71,5.6,13.6,0.0,GAME EDUCATIONAL,28316,4216,3837,3368,10784,False
 92,Little Panda’s Space Kitchen - Kids Cooking,50320,10.0 M,4.2,4130.4,8.1,0.0,GAME EDUCATIONAL,36062,3285,2489,1961,6521,False
-"93,""Fairy Tales ~ Children’s Books, Stories and Games"",50087,1.0 M,4.49,0.5,0.9,0.0,GAME EDUCATIONAL,37257,6717,2401,932,2778,False"
+93,"Fairy Tales ~ Children’s Books, Stories and Games",50087,1.0 M,4.49,0.5,0.9,0.0,GAME EDUCATIONAL,37257,6717,2401,932,2778,False
 94,Funny Food educational games for kids toddlers,49846,10.0 M,4.17,4.9,9.5,0.0,GAME EDUCATIONAL,33433,5470,2999,2092,5849,False
-"95,""Baby Phone - Games for Family, Parents and Babies"",49415,5.0 M,4.33,0.0,0.0,0.0,GAME EDUCATIONAL,31361,10000,4066,1049,2937,False"
+95,"Baby Phone - Games for Family, Parents and Babies",49415,5.0 M,4.33,0.0,0.0,0.0,GAME EDUCATIONAL,31361,10000,4066,1049,2937,False
 96,Madagascar Surf n' Slides Free,49288,5.0 M,4.0,0.0,0.0,0.0,GAME EDUCATIONAL,30717,4685,4345,2307,7232,False
 97,My Town : Grandparents Play home Fun Life Game,49223,5.0 M,4.2,14.1,103.9,0.0,GAME EDUCATIONAL,34402,4107,2829,1980,5902,False
 98,Baby Panda's Town: My Dream,48792,10.0 M,4.3,4.9,11.4,0.0,GAME EDUCATIONAL,36202,3349,2282,1525,5432,False
@@ -831,7 +831,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 6,Dream Piano - Music Game,660119,50.0 M,4.43,0.2,0.5,0.0,GAME MUSIC,494049,66399,35831,17337,46499,False
 7,Rock Hero,639715,50.0 M,4.22,0.0,0.1,0.0,GAME MUSIC,417024,83532,63936,16283,58937,False
 8,Dancing Road: Color Ball Run!,636362,100.0 M,4.08,2.7,7.5,0.0,GAME MUSIC,413438,64995,42566,27709,87651,False
-"9,""Real Guitar Free - Chords, Tabs & Simulator Games"",604697,50.0 M,3.76,0.4,0.9,0.0,GAME MUSIC,345647,57138,43941,24981,132988,False"
+9,"Real Guitar Free - Chords, Tabs & Simulator Games",604697,50.0 M,3.76,0.4,0.9,0.0,GAME MUSIC,345647,57138,43941,24981,132988,False
 10,Cytus,570211,5.0 M,4.58,0.1,0.2,0.0,GAME MUSIC,463716,47774,17694,9966,31059,False
 11,DEEMO,551373,5.0 M,4.65,0.1,0.3,0.0,GAME MUSIC,460854,43281,16062,7751,23423,False
 12,SongPop,403138,10.0 M,4.36,0.0,0.0,0.0,GAME MUSIC,278623,59735,23680,12184,28913,False
@@ -854,7 +854,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 29,Piano Games - Free Music Piano Challenge 2020,165807,10.0 M,3.71,0.2,0.5,0.0,GAME MUSIC,90329,17684,12946,9136,35708,False
 30,Hop Ball 3D: Dancing Ball on the Music Tiles,159233,50.0 M,4.03,2.1,5.1,0.0,GAME MUSIC,102229,15653,10302,6655,24391,False
 31,Beat Craft,157011,5.0 M,4.41,1.0,2.3,0.0,GAME MUSIC,112496,21245,9078,3736,10453,False
-"32,""Give It Up! - Jump to the Beat, Follow the Music!"",150967,5.0 M,4.27,0.0,0.0,0.0,GAME MUSIC,103071,19294,9930,4126,14543,False"
+32,"Give It Up! - Jump to the Beat, Follow the Music!",150967,5.0 M,4.27,0.0,0.0,0.0,GAME MUSIC,103071,19294,9930,4126,14543,False
 33,One More Line,149646,5.0 M,4.01,0.0,0.0,0.0,GAME MUSIC,85791,23965,13835,7282,18770,False
 34,Tap Tap Music-Pop Songs,138467,10.0 M,4.2,0.2,0.5,0.0,GAME MUSIC,96074,12564,7795,5416,16616,False
 35,SongPop 2 - Guess The Song,138031,5.0 M,3.83,0.2,0.6,0.0,GAME MUSIC,74593,19075,13053,8279,23030,False
@@ -1024,7 +1024,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 99,디즈니 틀린그림찾기,384360,1.0 M,4.39,0.0,0.0,0.0,GAME PUZZLE,233094,94172,40694,5921,10475,False
 100,How to Loot - Pin Pull & Hero Rescue,382846,50.0 M,4.4,7.2,19.8,0.0,GAME PUZZLE,289732,30881,19959,10772,31499,False
 1,Hill Climb Racing,10109437,500.0 M,4.26,0.3,0.8,0.0,GAME RACING,7120594,973822,598377,328394,1088246,False
-"2,""Asphalt 8 Racing Game - Drive, Drift at Real Speed"",9501337,100.0 M,4.3,0.2,0.5,0.0,GAME RACING,6879557,924364,429335,234006,1034071,False"
+2,"Asphalt 8 Racing Game - Drive, Drift at Real Speed",9501337,100.0 M,4.3,0.2,0.5,0.0,GAME RACING,6879557,924364,429335,234006,1034071,False
 3,Traffic Rider,7501902,100.0 M,4.34,0.5,1.0,0.0,GAME RACING,5359930,847047,446637,207638,640648,False
 4,Real Racing 3,6618421,100.0 M,4.32,0.3,0.6,0.0,GAME RACING,4705375,785431,316180,163679,647754,False
 5,Traffic Racer,6028847,100.0 M,4.45,0.3,0.6,0.0,GAME RACING,4572262,582493,307070,139494,427525,False
@@ -1158,7 +1158,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 33,The Walking Dead: Road to Survival,602664,10.0 M,4.07,0.3,0.3,0.0,GAME ROLE PLAYING,371359,86962,41706,22313,80321,False
 34,International Fashion Stylist - Dress Up Studio,601033,10.0 M,4.4,3.0,6.1,0.0,GAME ROLE PLAYING,434223,73495,35647,15379,42287,False
 35,My Candy Love - Episode / Otome game,592516,10.0 M,4.1,0.2,0.5,0.0,GAME ROLE PLAYING,368968,82889,44593,22132,73931,False
-"36,""Day R Survival – Apocalypse, Lone Survivor and RPG"",584420,10.0 M,4.49,0.9,1.8,0.0,GAME ROLE PLAYING,437905,75187,24549,12849,33928,False"
+36,"Day R Survival – Apocalypse, Lone Survivor and RPG",584420,10.0 M,4.49,0.9,1.8,0.0,GAME ROLE PLAYING,437905,75187,24549,12849,33928,False
 37,Don't get fired!,560996,5.0 M,4.31,0.7,1.5,0.0,GAME ROLE PLAYING,368450,95209,40128,15092,42114,False
 38,Dragon Village,557980,5.0 M,4.35,0.1,0.2,0.0,GAME ROLE PLAYING,408426,51219,33933,13281,51119,False
 39,Inotia 4,557678,5.0 M,4.47,0.1,0.2,0.0,GAME ROLE PLAYING,395376,92349,34466,9098,26387,False
@@ -1173,7 +1173,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 48,Operate Now: Hospital - Surgery Simulator Game,499642,10.0 M,3.7,0.3,0.7,0.0,GAME ROLE PLAYING,284574,37945,34544,29367,113209,False
 49,Heroes Charge,496856,10.0 M,4.6,0.1,0.1,0.0,GAME ROLE PLAYING,425997,18186,11837,7128,33704,False
 50,Sky: Children of the Light,491526,5.0 M,4.25,4.3,9.7,0.0,GAME ROLE PLAYING,360435,39377,14664,6116,70931,False
-"51,""My Bakery Empire - Bake, Decorate & Serve Cakes"",487690,100.0 M,4.2,2.7,5.3,0.0,GAME ROLE PLAYING,342489,39379,26841,17272,61706,False"
+51,"My Bakery Empire - Bake, Decorate & Serve Cakes",487690,100.0 M,4.2,2.7,5.3,0.0,GAME ROLE PLAYING,342489,39379,26841,17272,61706,False
 52,Ninja Turtles: Legends,484315,10.0 M,4.37,1.2,2.3,0.0,GAME ROLE PLAYING,359826,44683,22541,12439,44823,False
 53,Order & Chaos Online 3D MMORPG,474452,5.0 M,4.17,0.0,0.0,0.0,GAME ROLE PLAYING,321908,49659,26027,13408,63447,False
 54,Grim Soul: Dark Fantasy Survival,469934,10.0 M,4.37,2.0,4.1,0.0,GAME ROLE PLAYING,320973,76889,29167,12778,30125,False
@@ -1241,7 +1241,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 16,The Sims™ Mobile,1366714,50.0 M,4.18,1.4,3.2,0.0,GAME SIMULATION,876746,193857,102948,49538,143622,False
 17,LINE BROWN FARM,1359519,10.0 M,4.34,0.1,0.3,0.0,GAME SIMULATION,890317,241086,115756,30238,82120,False
 18,Fishing Clash,1298159,50.0 M,4.64,2.3,5.1,0.0,GAME SIMULATION,1084764,98243,35587,17455,62108,False
-"19,""Cash, Inc. Money Clicker Game & Business Adventure"",1222131,10.0 M,4.64,0.8,1.9,0.0,GAME SIMULATION,1020476,84508,44791,19334,53020,False"
+19,"Cash, Inc. Money Clicker Game & Business Adventure",1222131,10.0 M,4.64,0.8,1.9,0.0,GAME SIMULATION,1020476,84508,44791,19334,53020,False
 20,Vegas Crime Simulator,1187879,100.0 M,4.17,0.9,1.7,0.0,GAME SIMULATION,838441,84294,59640,42905,162595,False
 21,Hooked Inc: Fisher Tycoon,1187376,10.0 M,4.53,1.3,2.5,0.0,GAME SIMULATION,865432,180755,84718,19565,36904,False
 22,Scary Teacher 3D,1152884,50.0 M,4.29,5.2,11.2,0.0,GAME SIMULATION,833557,101693,57332,36121,124178,False
@@ -1251,9 +1251,9 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 26,Bus Simulator : Ultimate,1091964,50.0 M,4.26,4.1,11.0,0.0,GAME SIMULATION,768323,113034,57837,32237,120530,False
 27,Craftsman: Building Craft,1031506,50.0 M,4.21,11.5,27.3,0.0,GAME SIMULATION,714827,102088,55524,32247,126818,False
 28,Design Home: House Renovation,1019979,50.0 M,4.21,1.4,3.2,0.0,GAME SIMULATION,602531,214441,89303,44417,69285,False
-"29,""Egg, Inc."",1009271,10.0 M,4.56,2.4,5.8,0.0,GAME SIMULATION,723826,186866,59318,15129,24129,False"
+29,"Egg, Inc.",1009271,10.0 M,4.56,2.4,5.8,0.0,GAME SIMULATION,723826,186866,59318,15129,24129,False
 30,The Sims™ FreePlay,1000601,10.0 M,4.12,0.2,0.5,0.0,GAME SIMULATION,653921,112635,65545,34291,134207,False
-"31,""House Flipper: Home Design, Interior Makeover Game"",999265,10.0 M,4.63,11.7,44.7,0.0,GAME SIMULATION,769360,150116,44200,11560,24026,False"
+31,"House Flipper: Home Design, Interior Makeover Game",999265,10.0 M,4.63,11.7,44.7,0.0,GAME SIMULATION,769360,150116,44200,11560,24026,False
 32,Block City Wars: Pixel Shooter with Battle Royale,992624,10.0 M,4.06,0.2,0.5,0.0,GAME SIMULATION,632974,109571,69100,37585,143392,False
 33,Paradise Island,976973,10.0 M,4.29,0.0,0.0,0.0,GAME SIMULATION,631649,161085,82640,34408,67189,False
 34,Kill Shot,965532,10.0 M,4.4,0.0,0.1,0.0,GAME SIMULATION,629367,196151,78744,17126,44141,False
@@ -1299,7 +1299,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 74,Stickman Dismounting,479602,10.0 M,4.25,0.3,0.7,0.0,GAME SIMULATION,320822,62713,35119,15528,45418,False
 75,Pokémon: Magikarp Jump,473108,10.0 M,4.52,0.4,0.8,0.0,GAME SIMULATION,355701,62419,22120,8720,24145,False
 76,World Truck Driving Simulator,471115,10.0 M,4.36,3.1,7.4,0.0,GAME SIMULATION,347260,46137,22110,12097,43508,False
-"77,""Avatar Life - fun, love & games in virtual world!"",453899,10.0 M,4.08,1.1,2.3,0.0,GAME SIMULATION,282985,62118,32292,15532,60970,False"
+77,"Avatar Life - fun, love & games in virtual world!",453899,10.0 M,4.08,1.1,2.3,0.0,GAME SIMULATION,282985,62118,32292,15532,60970,False
 78,Indian Train Simulator,450705,10.0 M,4.04,0.9,1.7,0.0,GAME SIMULATION,284990,49372,31347,20301,64693,False
 79,Home Street – Home Design Game,447104,10.0 M,4.23,0.5,1.3,0.0,GAME SIMULATION,307948,48863,25752,14540,49999,False
 80,High School Simulator 2018,447068,10.0 M,4.19,2.9,6.1,0.0,GAME SIMULATION,304413,47096,26159,15157,54241,False
@@ -1525,7 +1525,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 100,Castle Clash: Regu Royale,270364,1.0 M,4.34,0.1,0.2,0.0,GAME STRATEGY,195637,25085,17969,8165,23506,False
 1,Trivia Crack,7271580,100.0 M,4.27,0.4,0.9,0.0,GAME TRIVIA,4813526,1133845,451590,194961,677655,False
 2,Brain Test: Tricky Puzzles,3989535,100.0 M,4.59,1.9,4.9,0.0,GAME TRIVIA,3146099,482157,122328,54610,184338,False
-"3,""94% - Quiz, Trivia & Logic"",2612778,10.0 M,4.49,0.0,0.1,0.0,GAME TRIVIA,1800991,500288,186498,44719,80280,False"
+3,"94% - Quiz, Trivia & Logic",2612778,10.0 M,4.49,0.0,0.1,0.0,GAME TRIVIA,1800991,500288,186498,44719,80280,False
 4,Logo Quiz,1183400,50.0 M,4.34,0.0,0.0,0.0,GAME TRIVIA,782381,200879,91546,35081,73511,False
 5,Who is? Brain Teaser & Tricky Riddles,980865,10.0 M,4.53,9.6,25.5,0.0,GAME TRIVIA,759734,110339,36180,18689,55920,False
 6,Brain Test 2: Tricky Stories,764082,10.0 M,4.56,4.6,12.7,0.0,GAME TRIVIA,597205,88099,27794,12524,38458,False
@@ -1558,7 +1558,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 33,Scratch Logo Quiz. Challenging brain puzzle,152297,10.0 M,3.6,0.0,0.0,0.0,GAME TRIVIA,74840,18225,16867,8538,33824,False
 34,Jeopardy!® Trivia Quiz Game Show,150895,1.0 M,4.34,0.5,1.2,0.0,GAME TRIVIA,95711,31185,11669,4781,7546,False
 35,Spin of Fortune - Quiz,150300,10.0 M,4.25,0.6,1.4,0.0,GAME TRIVIA,100127,20350,11117,5256,13448,False
-"36,""100 PICS Quiz - Guess Trivia, Logo & Picture Games"",148570,10.0 M,4.28,0.0,0.1,0.0,GAME TRIVIA,98350,22682,10187,4814,12534,False"
+36,"100 PICS Quiz - Guess Trivia, Logo & Picture Games",148570,10.0 M,4.28,0.0,0.1,0.0,GAME TRIVIA,98350,22682,10187,4814,12534,False
 37,Millionaire 2021 - Free Trivia Quiz Offline Game,147783,10.0 M,4.35,10.2,25.9,0.0,GAME TRIVIA,103615,20001,7829,4233,12102,False
 38,General Knowledge Quiz,143164,5.0 M,4.34,0.0,0.1,0.0,GAME TRIVIA,91545,28322,11534,3887,7874,False
 39,Food Quiz,142834,10.0 M,4.16,0.0,0.0,0.0,GAME TRIVIA,92969,17315,10793,5914,15841,False
@@ -1575,7 +1575,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 50,TRIVIA 360: Single-player & Multiplayer quiz game,108480,5.0 M,4.37,0.6,1.6,0.0,GAME TRIVIA,65183,28501,8569,2264,3960,False
 51,Free RBX Master,107289,500.0 k,4.2,6.6,13.9,0.0,GAME TRIVIA,78781,6133,3952,2230,16190,False
 52,sameQuizy,107262,1.0 M,4.31,0.1,0.4,0.0,GAME TRIVIA,69383,19517,7749,3171,7440,False
-"53,""Live Quiz Games App, Trivia & Gaming App for Money"",106880,10.0 M,3.42,0.0,0.0,0.0,GAME TRIVIA,54382,8965,5455,3630,34446,False"
+53,"Live Quiz Games App, Trivia & Gaming App for Money",106880,10.0 M,3.42,0.0,0.0,0.0,GAME TRIVIA,54382,8965,5455,3630,34446,False
 54,Quiz Of Kings,100739,1.0 M,4.47,4.8,10.5,0.0,GAME TRIVIA,79501,7674,3454,1707,8400,False
 55,MEGA QUIZ GAMING 2021 - Guess the game Trivia,97967,1.0 M,3.95,0.0,0.1,0.0,GAME TRIVIA,46730,24907,11279,4406,10643,False
 56,Guess The Movie ®,94798,1.0 M,3.37,0.2,0.3,0.0,GAME TRIVIA,31819,18522,15734,9990,18731,False
@@ -1585,8 +1585,8 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 60,A Journey Towards Jesus,81867,1.0 M,4.74,0.3,0.7,0.0,GAME TRIVIA,69027,8329,2359,609,1539,False
 61,УГАДАЙ БЛОГЕРА,77704,1.0 M,4.76,0.0,0.0,0.0,GAME TRIVIA,70380,2441,1275,717,2889,False
 62,96%: Family Quiz,77401,1.0 M,4.22,0.0,0.0,0.0,GAME TRIVIA,46640,15480,6702,2473,6104,False
-"63,""Эврика! Логические Задачи, Игры и Головоломки"",76755,1.0 M,4.48,0.1,0.2,0.0,GAME TRIVIA,55311,12973,2806,1018,4644,False"
-"64,""Stupid test: moron test, idiotest. IQ bored games"",75630,1.0 M,4.02,0.5,1.6,0.0,GAME TRIVIA,47271,8850,4946,2562,11999,False"
+63,"Эврика! Логические Задачи, Игры и Головоломки",76755,1.0 M,4.48,0.1,0.2,0.0,GAME TRIVIA,55311,12973,2806,1018,4644,False
+64,"Stupid test: moron test, idiotest. IQ bored games",75630,1.0 M,4.02,0.5,1.6,0.0,GAME TRIVIA,47271,8850,4946,2562,11999,False
 65,Trivia Crack (No Ads),74594,500.0 k,4.58,0.9,2.2,1.99,GAME TRIVIA,55411,12625,3123,1117,2315,True
 66,Quiz World: Play and Win Everyday!,67309,1.0 M,4.35,125.3,250.6,0.0,GAME TRIVIA,52621,3237,2092,1322,8034,False
 67,스케치퀴즈,65734,5.0 M,3.13,0.0,0.0,0.0,GAME TRIVIA,25093,6939,6959,4763,21977,False
@@ -1596,7 +1596,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 71,Atriviate (Online Trivia),64589,5.0 M,3.59,0.0,0.1,0.0,GAME TRIVIA,23795,16207,9318,4549,10718,False
 72,Quiz - Offline Games,60836,5.0 M,4.24,3.2,7.3,0.0,GAME TRIVIA,38247,10607,5338,1868,4774,False
 73,Trivia Crack Adventure,60110,1.0 M,4.32,28.0,99.3,0.0,GAME TRIVIA,39556,10435,4274,1782,4060,False
-"74,""Gartic.io - Draw, Guess, WIN"",59564,5.0 M,3.91,4661.3,5.4,0.0,GAME TRIVIA,32841,9043,5869,3064,8745,False"
+74,"Gartic.io - Draw, Guess, WIN",59564,5.0 M,3.91,4661.3,5.4,0.0,GAME TRIVIA,32841,9043,5869,3064,8745,False
 75,Truth or Dare,59446,1.0 M,4.42,1.3,3.0,0.0,GAME TRIVIA,43119,7849,3074,1243,4158,False
 76,BFF Friendship Test,58971,10.0 M,4.13,1.2,2.3,0.0,GAME TRIVIA,37997,6847,4598,2629,6897,False
 77,Superbuzzer Trivia Quiz Game,58346,1.0 M,3.84,0.0,0.0,0.0,GAME TRIVIA,34640,6231,3315,2067,12092,False
@@ -1609,7 +1609,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 84,101 Pics: Photo Quiz,53419,5.0 M,4.44,1.0,2.1,0.0,GAME TRIVIA,41529,3619,2689,1399,4179,False
 85,Personal Name Test,51922,1.0 M,3.48,0.0,0.0,0.0,GAME TRIVIA,25556,4587,4827,2988,13962,False
 86,Flags and Capitals of the World Quiz,51610,1.0 M,4.32,0.3,0.8,0.0,GAME TRIVIA,35507,6831,3539,1546,4184,False
-"87,""Logo Test: World Brands Quiz, Guess Trivia Game"",51017,1.0 M,4.43,12.5,37.4,0.0,GAME TRIVIA,36341,6921,3653,1435,2663,False"
+87,"Logo Test: World Brands Quiz, Guess Trivia Game",51017,1.0 M,4.43,12.5,37.4,0.0,GAME TRIVIA,36341,6921,3653,1435,2663,False
 88,¿Cuánto sabes de Primaria?,50808,10.0 M,3.57,0.0,0.1,0.0,GAME TRIVIA,25764,4950,5090,2590,12411,False
 89,Cars Logo Quiz HD,49656,5.0 M,4.14,0.1,0.4,0.0,GAME TRIVIA,31207,6779,4389,2139,5139,False
 90,לוגוטסט טריוויה: משחק הסמלים והמותגים הגדול בישראל,49632,500.0 k,4.66,0.5,1.3,0.0,GAME TRIVIA,40900,4609,1816,618,1686,False
@@ -1658,7 +1658,7 @@ rank,title,total_ratings,installs,average_rating,growth (30 days),growth (60 day
 29,Word Connect - Word Games Puzzle,419753,10.0 M,4.59,0.8,1.9,0.0,GAME WORD,332795,42949,20885,6848,16273,False
 30,Pictoword: Fun Word Games & Offline Brain Game,412505,10.0 M,4.18,0.2,0.6,0.0,GAME WORD,263532,59896,32245,15034,41795,False
 31,Word Collect - Free Word Games,406650,10.0 M,4.82,3.7,9.4,0.0,GAME WORD,373268,16566,4404,3184,9225,False
-"32,""Braindom: Tricky Brain Teasers, Test, Riddle Games"",392711,10.0 M,4.65,10.7,16.3,0.0,GAME WORD,332574,24088,11929,5183,18934,False"
+32,"Braindom: Tricky Brain Teasers, Test, Riddle Games",392711,10.0 M,4.65,10.7,16.3,0.0,GAME WORD,332574,24088,11929,5183,18934,False
 33,Word Search,390189,50.0 M,4.46,0.1,0.2,0.0,GAME WORD,423778,51882,16591,5124,15163,False
 33,Word Search,390189,50.0 M,4.46,0.1,0.2,0.0,GAME WORD,278688,96149,40350,11577,28852,False
 33,Word Search,390189,50.0 M,4.46,0.1,0.2,0.0,GAME WORD,260865,79932,29422,6895,13072,False
